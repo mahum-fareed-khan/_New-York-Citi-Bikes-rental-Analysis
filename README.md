@@ -1,9 +1,5 @@
 <h1 align="center">🚲 New York Citi Bikes Rental Analysis</h1>
 
-<p align="center">
-  <img src="images/citi_bike_banner.png" alt="Citi Bike Analysis Banner" width="700">
-</p>
-
 <h2>📌 About the Project</h2>
 <p>
 This project provides an in-depth analysis of New York City’s Citi Bike rental system. The goal is to uncover trends in bike usage, identify popular locations, and provide actionable insights for optimizing operations.
